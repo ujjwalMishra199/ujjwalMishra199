@@ -1,46 +1,49 @@
 ### Hi 👋, I'm Ujjwal Mishra
-#### Backend Developer | Node.js & Cloud Enthusiast
+#### Full Stack Developer | AI Enthusiast
 
-Building scalable backend systems, REST APIs & cloud-based applications.
+Building scalable backend systems, REST APIs & AI-integrated products.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science (GLA University, 2026)
-- 💻 Backend Developer Intern @ OMSR Media Pvt. Ltd., Gurugram
-- 🛠️ Core stack: Node.js, Express.js, MySQL, MongoDB, REST APIs
-- ☁️ Hands-on with Docker, AWS (EC2, S3), GitHub Actions
+- 💻 Full-Stack Developer @ TTFA Academy, Noida
+- 🛠️ Core stack: Node.js, Express.js, MongoDB, MySQL, REST APIs
+- ⚛️ Frontend: React, TypeScript
+- ☁️ Hands-on with Docker, AWS (EC2, S3), CI/CD, GitHub Actions
 - 🔐 Experience with JWT & OAuth based authentication systems
-- 📜 Certified: AWS Cloud, Docker, Oracle Cloud Infrastructure Generative AI
+- 📜 Certified: Oracle Cloud Infrastructure 2025 Generative AI Professional, AWS Cloud & Docker Fundamentals, REST API Development (Node.js & Express.js)
 - 🧠 Interested in scalable backend architectures & AI-integrated systems
 
 ---
 
 ## 💼 Experience
 
-### 🚀 OMSR Media Pvt. Ltd. — Backend Developer Intern
-- Working on production-grade backend systems & live servers
-- Contributing to **ConnecWrk** – a platform for MSMEs & freelancers
+### 🚀 TTFA Academy — Full-Stack Developer (Jul 2026 – Present)
+- Engineered backend and database integration for Admin and Creator portals of a Creator Referral Partner platform using Node.js, Express, MongoDB, and React/TypeScript
+- Replaced mock data with live MongoDB-backed logic across dashboards, campaigns, analytics, and payouts, including aggregation-based data flows
+- Built the campaign publish → notify → apply → review workflow and resolved data-integrity issues across both portals
 
-### 🛒 Baoiam Innovations Pvt. Ltd. — Backend Developer Intern
-- Built E-Commerce backend APIs using Node.js, Express.js & MongoDB
-- Implemented JWT-based authentication and Razorpay payment integration
+### 🖥️ OMSR Media Pvt. Ltd. — Backend Developer (Feb 2026 – Jul 2026)
+- Developed and maintained Node.js backend services and RESTful APIs for live production applications handling real-time traffic
+- Containerized services using Docker and managed AWS EC2/S3 infrastructure with CI/CD pipelines for automated deployment workflows
+- Optimized MySQL and MongoDB operations and implemented JWT/OAuth-based authentication for secure and reliable API access
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 ConnecWrk – Deal Flow Agent
-- Backend feature for an MSME & freelancer networking platform
-- Automated daily job-to-freelancer matching engine
-- Built with **Node.js, MySQL, Sequelize ORM, BullMQ, Redis, Express.js**
-- Sends personalized, AI-curated deal sheets to freelancers via email
+### 🔹 TTFA Academy — Creator Referral Partner Platform
+- Two-sided Admin + Creator platform with live MongoDB aggregation pipelines across dashboards, campaigns, analytics, and payouts
+- Built the campaign publish → notify → apply → review flow with secure payout/KYC verification
+- **Node.js, Express, MongoDB, React/TypeScript**
 
-### 🔹 E-Commerce Backend APIs (Baoiam Innovations)
-- RESTful backend for an e-commerce platform
-- **Node.js, Express.js, MongoDB, JWT, Razorpay**
-- Secure authentication & integrated payment gateway
+### 🔹 ConnecWrk Platform
+- Backend services for an AI-powered discovery platform for freelancers, artists, and small businesses
+- Designed MySQL schemas, optimized queries, built secure REST APIs for auth, profiles, and search
+- Contributed to AI-driven recommendation workflows
+- **Node.js, MySQL, MySQL Workbench**
 
 ---
 
@@ -48,6 +51,8 @@ Building scalable backend systems, REST APIs & cloud-based applications.
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
